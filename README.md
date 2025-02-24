@@ -1,2 +1,0 @@
-# CodeAlpha
-CodeAlpha_project_Image_gallary
