@@ -1,2 +1,2 @@
 # CodeAlpha
-new repository
+CodeAlpha_project_Image_gallary
